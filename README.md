@@ -23,18 +23,18 @@ Let's build something extraordinary.
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=APNA_GITHUB_USERNAME_YAHAN_LIKHO&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish8312&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <!-- GitHub Cards -->
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=APNA_GITHUB_USERNAME_YAHAN_LIKHO&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APNA_GITHUB_USERNAME_YAHAN_LIKHO&layout=compact&theme=tokyonight" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Krish8312&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish8312&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=APNA_GITHUB_USERNAME_YAHAN_LIKHO&theme=tokyonight&area=true&hide_border=false&color=66,220,163,1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish8312&theme=tokyonight&area=true&hide_border=false&color=66,220,163,1" />
 </p>
 
 ---
@@ -58,13 +58,13 @@ Looking for my full portfolio or have more questions? Feel free to reach out!
 <h3 align="left">🤝 **Let's Connect!**</h3>
 
 <p align="center">
-  <a href="https://t.me/APNA_TELEGRAM_USERNAME" target="_blank">
+  <a href="https://t.me/krish8750" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/APNA_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/krish-rajput-852687243?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-   <a href="mailto:APNA_EMAIL_ID@gmail.com">
+   <a href="mailto:krishrajputrr72@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
